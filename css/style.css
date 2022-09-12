@@ -37,18 +37,33 @@
     margin: 4px;
     margin-top: 20px;
  }
- /* margini */
+ /* impostazione margini */
 .margine{
     margin: 4px;
     margin-top: 20px;
 }
-/* tabella */
+/* stile tabella */
 .testa{
     background-color: #20A9E5;
+    color: white;
 }
 .colonna3{
     width: 30%;
 }
 .righe{
     background-color: #B1E5F2;
+}
+/* stile footer */
+#grigio2{
+    margin-top: 20px;
+}
+.h3{
+    font-size: larger;
+    color: white;
+    transform: translateY(+2em);
+    padding-left: 4px;
+}
+.margine2{
+    margin: 4px;
+    margin-top: -10px;
 }
