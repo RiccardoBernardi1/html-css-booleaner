@@ -32,8 +32,23 @@
     font-size:larger;
     font-weight: bold
  }
-
+/* stile immagini tim */
  .tim{
     margin: 4px;
     margin-top: 20px;
  }
+ /* margini */
+.margine{
+    margin: 4px;
+    margin-top: 20px;
+}
+/* tabella */
+.testa{
+    background-color: #20A9E5;
+}
+.colonna3{
+    width: 30%;
+}
+.righe{
+    background-color: #B1E5F2;
+}
