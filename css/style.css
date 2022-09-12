@@ -1,0 +1,19 @@
+/* impostazioni pagina */
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+/* impostazioni header*/
+.pattern {
+    height: 4em;
+    background-image:url(../img/pattern.png) ;
+    background-color: #4EA0FF;
+    background-size: contain;   
+}
+.logo {
+   
+    height: 2em;
+    background-image: url(../img/logo.svg);
+    background-repeat: no-repeat;
+    transform: translateY(-100%); 
+ }
