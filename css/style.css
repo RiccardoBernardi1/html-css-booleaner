@@ -44,13 +44,15 @@
     color: white;
 }
 .colonna3{
-    width: 30%;
+    width: 40%;
 }
 .righe{
     background-color: #B1E5F2;
 }
-.table{
+table{
     border-collapse: collapse;
+    text-align: center;
+    
 }
 /* stile footer */
 #grigio2{
