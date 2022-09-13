@@ -58,13 +58,17 @@ table{
 #grigio2{
     margin-top: 20px;
 }
-.h3{
+.immagine{       
+    width:312px ;
+    height:208px ;
     font-size: larger;
     color: white;
-    transform: translateY(+2em);
-    padding-left: 4px;
-}
-.margine2{
     margin: 4px;
-    margin-top: -10px;
+    margin-top: 10px;
+}
+#img1{
+   background-image: url(../img/monitor.jpg) 
+}
+#img2{
+    background-image: url(../img/graph.jpg);
 }
